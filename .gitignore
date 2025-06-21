@@ -13,6 +13,7 @@ dist
 dist-ssr
 coverage
 *.local
+amplify-repo/
 
 /cypress/videos/
 /cypress/screenshots/

@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'BlackoutTwoAM';
+    src: url(https://3cv-bucket.s3.eu-north-1.amazonaws.com/fonts/blackout_two_am-webfont.ttf) format(truetype),
+    url(https://3cv-bucket.s3.eu-north-1.amazonaws.com/fonts/blackout_two_am-webfont.woff) format(woff),
+    url(https://3cv-bucket.s3.eu-north-1.amazonaws.com/fonts/blackout_two_am-webfont.woff2) format(woff2);
+  }
+  
+  @font-face {
+    font-family: 'Questa-Slab';
+    src: url(https://3cv-bucket.s3.eu-north-1.amazonaws.com/fonts/questa_slab_regular-webfont.otf) format(opentype),
+    url(https://3cv-bucket.s3.eu-north-1.amazonaws.com/fonts/questa_slab_regular-webfont.woff) format(woff),
+    url(https://3cv-bucket.s3.eu-north-1.amazonaws.com/fonts/questa_slab_regular-webfont.woff2) format(woff2);
+  }
+  
+  @font-face {
+    font-family: 'Work-Sans-ExtraLight';
+    src: url(https://3cv-bucket.s3.eu-north-1.amazonaws.com/fonts/worksans-extralight-webfont.otf) format(opentype),
+    url(https://3cv-bucket.s3.eu-north-1.amazonaws.com/fonts/worksans-extralight-webfont.woff) format(woff),
+    url(https://3cv-bucket.s3.eu-north-1.amazonaws.com/fonts/worksans-extralight-webfont.woff2) format(woff2);
+  }
+  
+  @font-face {
+    font-family: 'Work-Sans-Light';
+    src: url(https://3cv-bucket.s3.eu-north-1.amazonaws.com/fonts/worksans-light-webfont.otf) format(opentype),
+    url(https://3cv-bucket.s3.eu-north-1.amazonaws.com/fonts/worksans-light-webfont.woff) format(woff),
+    url(https://3cv-bucket.s3.eu-north-1.amazonaws.com/fonts/worksans-light-webfont.woff2) format(woff2);
+  }
